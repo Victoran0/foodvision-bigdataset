@@ -1,2 +1,3 @@
 data
 models
+demos/foodvision_big/effnetb2_food101_complete_dataset.pth
